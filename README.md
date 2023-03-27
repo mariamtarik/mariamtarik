@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @mariamtarik
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning html,css,bootstrap,jquary,angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Me(a-r)n stack development
+- 💞️ All of my projects are available at https://github.com/mariamtarik
+- 📫How to reach me mariamtarik799@gmail.com
+
+
 
 <!---
 mariamtarik/mariamtarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
