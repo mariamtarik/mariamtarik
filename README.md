@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariamtarik
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning Me(a-r)n stack development
+- 🌱 I’m currently learning Me(a-r)n stack development (Html,Css,bootstrap.jquery.Angular ,Angularmatrial,Node js ,express,mongodb)
 - 💞️ All of my projects are available at https://github.com/mariamtarik
 - 📫How to reach me mariamtarik799@gmail.com
 
